@@ -16,3 +16,5 @@ async function init() {
 }
 
 init();
+
+// The max size of a Redis list is 2^32 - 1 (4,294,967,295) members!
