@@ -52,3 +52,5 @@ async function init() {
 }
 
 init();
+
+// lookup time O(1)
